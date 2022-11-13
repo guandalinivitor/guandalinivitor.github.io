@@ -21,7 +21,7 @@ My goals include develop beautiful and useful products solving complex problems 
     - Games 
     - Books 
     - Travel
-<!-- * [Website](guandalinivitor.github.io/mypage/) 💻 - Learn more about me here. -->
+    
 ## Ocupations 👨‍💻 
     Full stack developer specialized in web development.
 
