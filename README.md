@@ -11,7 +11,7 @@
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vitornovelli/)](https://www.instagram.com/vitornovelli/)
 
 ### About me👨🏼‍💻
-I'm a full stack developer at [@onuu](https://www.instagram.com/its_onuu/) with more than 10+ years experience developing and building softwares on the market. A lifelong learner who loves coding, digital products, I have given my entire life building innovative products to make the life easier for clients. 
+I'm a full stack developer with more than 10+ years experience developing and building softwares on the market. A lifelong learner who loves coding, digital products, I have given my entire life building innovative products to make the life easier for clients. 
 I started my career building desktop softwares and web applications with valuable deliveries, making business more successful. 
 I am someone who loves been traveling around the world with my laptop. Building my career with confidence I have a mission to help people get work done with technology.
 My goals include develop beautiful and useful products solving complex problems for millions of people on the globe. 
